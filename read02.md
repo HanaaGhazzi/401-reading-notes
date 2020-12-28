@@ -47,10 +47,9 @@ module.exports = function (firstName, lastName) {
 |   V8 Engine:	|  JavaScript environment used in Google Chrome 	|
 |   Module:	|   A module is any file or directory in the node_modules directory that can be loaded byt the Node.js require() function	|
 |   Package: 	|    A package is a file or directory that is described by a package.json file. A package must contain a package.json file.	|
-|  Node Package Manager (NPM): 	|    A command line tool that installs, updates, or uninstalls Node.js packages in applications. It's also an online repository for open-source Node.js projects.
-	|
+|  Node Package Manager (NPM): 	|    A command line tool that installs, updates, or uninstalls Node.js packages in applications. It's also an online repository for open-source Node.js projects.|
 |   Server:	|   a computer or computer program which manages access to a centralized resource or service in a network.	|
-|   Environment:	|   A combination of software and hardware in a computer.	|
-|   Interpreter:	|  A program that directly executes instruction written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program. 	|
+|   Environment:	|   A combination of software and hardware in a computer.|
+|   Interpreter:	|  A program that directly executes instruction written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program. |
 |   Compiler:	|    A program that translates computer code written in one programming language (the source language) into another language (the target language).	|
 
