@@ -1,4 +1,5 @@
 # Express Routing & Connected API
+
 ## Express Routing:
 - routing changes the roles of the files in the server, the index.js is the Entry point, server.js is the exported server, models are for data and are known as data models, routes are for the routes and handlers.
 
