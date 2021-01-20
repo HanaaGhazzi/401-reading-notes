@@ -15,7 +15,7 @@ Any broadcast that is not received by a subscriber will remain “in the queue�
 
 In this type of systems, rather than a broadcasting of messages, clients will likely “poll” the server to retrieve any messages “in the queue” for them, on their own timeline/schedule.
 
-
+![/](https://www.cloudamqp.com/img/blog/thumb-mq.jpg)
 ## Real Time Messaging 
 
 messages are simply brokered by the server. They come in, are processed and are immediately broadcast out to subscribers. Should a subscriber at any point lose connection with the server, any messages broadcast by the server will clearly be missed by the client. These are known as “Real Time” messaging systems.
