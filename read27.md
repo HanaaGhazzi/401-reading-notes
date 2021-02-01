@@ -37,6 +37,9 @@
 
 -  Manipulating the virtual DOM is much faster, because nothing gets drawn onscreen. Think of manipulating the virtual DOM as editing a blueprint, as opposed to moving rooms in an actual house.
 
+![dom](https://i1.wp.com/programmingwithmosh.com/wp-content/uploads/2018/11/lnrn_0201.png?fit=1173%2C785&ssl=1)
+
+
 **what happens when you try to update the DOM in React:**
 
 - The entire virtual DOM gets updated.
